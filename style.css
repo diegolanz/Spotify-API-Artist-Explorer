@@ -64,7 +64,7 @@ body {
   cursor:pointer;
   opacity:100%;
 }
-.input-area h2{
+#welcome-text{
   width:100%;
   display:flex;
   color:#1e212b;
@@ -72,7 +72,16 @@ body {
   margin-bottom:1%;
   margin-top:5%;
   font-size:80px;
+}
 
+#scroll-text{
+  width:100%;
+  display:flex;
+  color:#1e212b;
+  justify-content: center;
+  margin-bottom:1%;
+  margin-top:1%;
+  font-size:20px;
 }
 
 .top-tracks-section{

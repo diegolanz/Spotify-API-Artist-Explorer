@@ -1,6 +1,6 @@
 async function getArtistBox () {// Get the name of the artist from the input text box
     var boxText = document.getElementById("artist-text");
-    var textValue = boxText.value;
+    var textValue = boxText.value
     return textValue;
 }
 
